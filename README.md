@@ -33,7 +33,7 @@ print("{:.2f}".format(d))
 
 ### OUTPUT:
 
-![Screenshot 2024-03-09 092156](https://github.com/dhanamoni/DISTANCE-BETWEEN-TWO-POINTS/assets/151629757/c4a8cc1e-7748-441d-8d32-ba56c38e53ee)
+![alt text](output3.png)
 
 
 ### RESULT:
